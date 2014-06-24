@@ -22,4 +22,6 @@
     [character flap];
 }
 
+[self addObstacle];
+
 @end
